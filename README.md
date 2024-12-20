@@ -126,8 +126,4 @@ For any issues or suggestions, please open an issue or contact ITSawa.
 - The `CookieStorage` class and its methods are described in detail, showcasing how it can be used as an alternative to other storage types.
 - The **Installation** and **License** sections provide basic setup instructions and licensing information.
 
-
-
-
-
 ```
