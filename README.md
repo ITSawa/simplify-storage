@@ -15,6 +15,7 @@ You can install `simplify-storage` using npm:
 
 ```bash
 npm install simplify-storage
+```
 Or you can add it to your project directly via a <script> tag in the HTML:
 
 html
@@ -125,5 +126,3 @@ For any issues or suggestions, please open an issue or contact ITSawa.
 - The **API** section outlines how to use the library, with examples for storing, retrieving, and managing data in different storage types.
 - The `CookieStorage` class and its methods are described in detail, showcasing how it can be used as an alternative to other storage types.
 - The **Installation** and **License** sections provide basic setup instructions and licensing information.
-
-```
